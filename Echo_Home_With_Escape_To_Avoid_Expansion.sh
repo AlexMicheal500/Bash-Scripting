@@ -4,4 +4,4 @@
 
 VAR=$HOME
 
-echo "VAR"
+echo "\$VAR"
